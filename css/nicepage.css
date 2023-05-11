@@ -1,0 +1,717 @@
+/*-----------------universal selector-----------------*/
+* {
+    margin: 0px;
+    padding: 0px;
+    background-repeat: no-repeat;
+    font-family: sans-serif;
+}
+
+/*----------------------navigation bar--------------------*/
+
+.div-nav {
+    background-color: hsl(0deg 0% 100%);
+    padding: 10px;
+}
+
+.d-i {
+    display: inline-block;
+    padding-left: 65rem;
+    font-size: 23px;
+    color: #08080873;
+    cursor: pointer;
+}
+
+/*-----------------------section about starts----------------*/
+
+.para {
+    font-family: cursive;
+    color: hsl(0deg 0% 73.33%);
+    padding-left: 11rem;
+    font-size: 26px;
+    padding-bottom: 9px;
+
+}
+
+.heading-one {
+    color: hsl(215.29deg 9.09% 36.67%);
+    font-size: 3rem;
+}
+
+.para-three {
+    font-size: 14px;
+    padding-left: 2px;
+}
+
+.parasame {
+    color: hsl(223.2deg 9.88% 49.61%);
+    margin-top: -4px;
+}
+
+.but {
+    font-weight: bold;
+    background-color: hsl(5.97deg 84.89% 55.88%);
+    color: white;
+    letter-spacing: 2px;
+    border: none;
+    font-family: math;
+    cursor: pointer;
+}
+
+.button-about {
+    padding: 11px 38px;
+}
+
+.div-image {
+    background-image: url('../images/men.png');
+    width: 50%;
+    height: 40rem;
+}
+
+.div-about {
+    position: relative;
+    top: -7rem;
+    left: 13px;
+}
+
+.sec-about {
+    width: 100%;
+    background-color: hsl(186deg 27.78% 92.94%);
+    margin-bottom: -15px;
+}
+
+.divsame {
+    display: inline-block;
+}
+
+.freepik {
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+.para-about {
+    letter-spacing: 4.5px;
+    font-size: 17px;
+
+}
+
+.para-two {
+    line-height: 2rem;
+    margin-top: -10px;
+    position: relative;
+    top: -14px;
+    text-transform: capitalize;
+}
+
+/*-------------------section plan starts here----------------------*/
+
+.sec-plan {
+    background-color: hsl(216deg 10.87% 18.04%);
+    color: hsl(32.31deg 86.67% 97.06%);
+    height: 49rem;
+}
+
+.div-section {
+    width: 80%;
+    margin: auto;
+}
+
+.para-three {
+    letter-spacing: 3px;
+    font-size: 15px;
+}
+
+.heading-plan {
+    padding-top: 15px;
+    font-size: 30px;
+    font-weight: 100;
+}
+
+.button-plan {
+
+    padding: 16px 35px;
+    margin-top: 40px;
+    cursor: pointer;
+}
+
+.paragraph {
+    line-height: 35px;
+    font-size: 17px;
+    padding-top: 30px;
+}
+
+.div-plan {
+    position: relative;
+    top: 14rem;
+}
+
+.box {
+    display: inline-block;
+    background-color: hsl(0deg 0% 100%);
+    padding: 39px 15px;
+    left: 36rem;
+}
+
+.division {
+    position: relative;
+    top: -185px;
+}
+
+.analysis {
+    margin-bottom: 10px;
+    position: relative;
+    top: -180px;
+}
+
+.business {
+    position: relative;
+    left: 546px;
+    top: -115px;
+}
+
+.sales {
+    position: relative;
+    left: 547px;
+    top: -93px;
+}
+
+.customer {
+    position: relative;
+    bottom: 79px;
+    top: -161px;
+}
+
+.h-three {
+    color: hsl(0deg 0% 6.67%);
+    text-transform: capitalize;
+
+}
+
+.para-plan {
+    color: hsl(346.67deg 5.03% 64.9%);
+    margin-top: 23px;
+}
+
+.icon {
+    font-size: 35px;
+    border: 1px solid #ee422f;
+    border-radius: 50px;
+    padding: 1.4rem;
+    background-color: #ee422f;
+    margin-bottom: 28px;
+    cursor: pointer;
+}
+
+/*---------------------section three starts here------------------*/
+
+.div-help {
+    text-align: center;
+}
+
+.heading-help {
+    font-size: 46px;
+    font-weight: 100;
+    padding-top: 80PX;
+}
+
+.para-help {
+    padding-top: 34px;
+    line-height: 28px;
+    font-size: 13.5px;
+}
+
+.parapik {
+    padding-top: 27px;
+    font-size: 15px;
+    padding-bottom: 68px;
+}
+
+.div-three {
+    left: 13.5rem;
+    width: 80%;
+    position: relative;
+    top: -20px;
+}
+
+.boxes {
+    text-align: center;
+    background-image: url(../images/cite.jpg);
+    width: 18rem;
+    height: 18rem;
+    display: inline-block;
+    background-position: top;
+    background-size: cover;
+    color: hsl(185.22deg 92% 95.1%);
+    margin: 6px;
+}
+
+.box-two {
+    background-image: url('../images/forestbridge.jpg');
+}
+
+.box-three {
+    background-image: url('../images/jane.jpg');
+}
+
+.box-four {
+    background-image: url('../images/mac.jpg');
+}
+
+.box-five {
+    background-image: url('../images/gara.jpg');
+}
+
+.box-six {
+    background-image: url('../images/forest.jpg');
+}
+
+/*----------------------section four starts here---------------*/
+
+.section-four {
+    width: 100%;
+    background-color: hsl(212.73deg 21.57% 90%);
+}
+
+.back-width {
+    width: 80%;
+    margin: auto;
+    height: 31rem;
+}
+
+.div-four {
+    width: 47%;
+    display: inline-block;
+    padding: 98px 120px;
+}
+
+.heading-four {
+    font-size: 42px;
+    font-weight: 100;
+}
+
+.para-four {
+    font-size: 12px;
+    letter-spacing: 1px;
+    padding-top: 27px;
+}
+
+.div-detail {
+    width: 36%;
+    position: relative;
+    top: -280px;
+    line-height: 28px;
+    font-size: 15px;
+    left: 40rem;
+}
+
+.button-banking {
+    background-color: hsl(216deg 10.87% 18.04%);
+    color: white;
+    letter-spacing: 1px;
+    border: none;
+    font-family: math;
+    padding: 11px 29px;
+    margin-left: -19px;
+    cursor: pointer;
+}
+
+/*-----------------------ze index starts here---------------*/
+
+.heading-index {
+    padding-bottom: 50px;
+    text-align: center;
+    font-size: 47px;
+    font-weight: 100;
+    padding-top: 85px;
+}
+
+.div-eighty {
+    width: 88%;
+}
+
+.div-one {
+    background-color: hsl(216deg 10.87% 18.04%);
+    color: white;
+    padding: 1.5rem 2rem 6rem 18.9rem;
+    float: right;
+    text-align: right;
+}
+
+.div-one-head {
+    font-size: 27px;
+    font-weight: 100;
+}
+
+.para-one-para {
+    font-size: 13px;
+    line-height: 21px;
+    padding-top: 11px;
+    letter-spacing: 1px;
+}
+
+.img {
+    background-image: url(../images/forest.jpg);
+    background-position: top;
+    background-size: cover;
+}
+
+.z-one {
+    width: 19rem;
+    height: 13rem;
+    position: relative;
+    left: 9rem;
+    top: 97px;
+}
+
+.z-two {
+    width: 14rem;
+    height: 12rem;
+    position: relative;
+    left: 25rem;
+    bottom: 231px;
+    z-index: 2;
+}
+
+.z-three {
+    width: 13rem;
+    height: 10rem;
+    position: relative;
+    bottom: 17rem;
+    left: 33rem;
+}
+
+.freepik-two {
+    top: -14rem;
+    padding-left: 27rem;
+    font-size: 15px;
+    letter-spacing: 1px;
+    position: relative;
+}
+
+/*--------------------section five starts here---------------*/
+
+.sec-five {
+    background-color: hsl(216deg 10.87% 18.04%);
+    color: hsl(0deg 0% 100%);
+    padding-bottom: 61px;
+}
+
+.div-index {
+    width: 80%;
+    margin: auto;
+    margin-bottom: -7rem;
+}
+
+.div-team {
+    text-align: center;
+    padding: 55px 0px;
+}
+
+.heading-team {
+    font-size: 46px;
+    font-weight: 100;
+    letter-spacing: -1px;
+    font-family: math;
+}
+
+.para-team {
+    font-size: 13px;
+    font-style: italic;
+    line-height: 22px;
+    padding-top: 12px;
+    color: hsl(200deg 9.37% 87.45%);
+}
+
+.freepik-three {
+    font-size: 12px;
+    letter-spacing: 1px;
+    color: hsl(200deg 9.37% 87.45%);
+    padding: 18px 0px;
+}
+
+.frepik {
+    text-decoration: underline;
+}
+
+.img-two {
+    width: 17rem;
+    height: 18rem;
+    position: relative;
+    left: 84px;
+    top: -35px;
+    padding: 0px 20px;
+}
+
+.boxno-one {
+    background-color: hsl(0deg 0% 100%);
+    height: 13.5rem;
+    display: inline-block;
+    color: hsl(0deg 0% 15.29%);
+    text-align: center;
+    margin: 35px;
+}
+
+.heading-box {
+    font-weight: 100;
+    padding-top: 27px;
+    letter-spacing: 2px;
+    margin-bottom: 9px;
+}
+
+.para-box {
+    color: hsl(4.29deg 84.26% 57.65%);
+    font-weight: bold;
+    padding-bottom: 16px;
+}
+
+.paragraph-two {
+    font-style: italic;
+    font-size: 15px;
+}
+
+.icon-s {
+    font-size: 17px;
+    padding: 35px 6px;
+    cursor: pointer;
+}
+
+.icons- {
+    color: hsl(13.33deg 11.11% 68.24% / 81%);
+    font-size: 110px;
+    padding-top: 44px;
+    cursor: pointer;
+}
+
+.boxno-one- {
+    width: 227px;
+    height: 198px;
+    position: relative;
+    bottom: 154px;
+    left: 91px;
+}
+
+.boxno-two- {
+    width: 227px;
+    height: 215px;
+    position: relative;
+    bottom: 132px;
+    left: 107px;
+}
+
+.boxno-three- {
+    width: 227px;
+    height: 215px;
+    position: relative;
+    bottom: 132px;
+    left: 123px;
+}
+
+.butto-one {
+    font-size: 12px;
+    border: 2px solid #d7cccc;
+    color: #ffffff;
+    background-color: #292d33;
+    padding: 12px 21px;
+    position: relative;
+    right: 25rem;
+    bottom: 69px;
+    cursor: pointer;
+}
+
+/*-------------------section what starts here---------------------*/
+
+.sec-what {
+    background-color: hsl(212.73deg 21.57% 90%);
+    padding-bottom: 65px;
+}
+
+.heading-six {
+    text-align: center;
+    font-size: 36px;
+    padding: 51px 0px 18px 0px;
+}
+
+.para-six {
+    color: hsl(262.11deg 3.34% 23.62%);
+    text-align: center;
+    font-style: italic;
+    font-size: 15px;
+    padding-bottom: 47px;
+}
+
+.div-what {
+    background-color: #ffffff;
+    width: 58%;
+    position: relative;
+    left: 17.5rem;
+}
+
+.icon-what {
+    left: 27rem;
+    font-size: 33px;
+    color: #b9aeae;
+    font-weight: 100;
+    position: relative;
+    top: -8px;
+    cursor: pointer;
+}
+
+.para-red {
+    color: hsl(4.81deg 84.62% 56.67%);
+    font-weight: bold;
+    font-size: 14px;
+    padding: 22px 0px 0px 27px;
+}
+
+.para-red-two {
+    font-size: 15px;
+    padding: 64px 0px 29px 28px;
+}
+
+.unordered-list {
+    color: hsl(207.43deg 41.18% 16.67%);
+    font-size: 15px;
+    line-height: 26px;
+    padding-left: 47px;
+}
+
+.button-what {
+    background-color: hsl(216deg 10.87% 18.04%);
+    color: hsl(50.32deg 34.83% 82.55%);
+    padding: 7px 22px;
+    letter-spacing: 2px;
+    font-family: math;
+    margin: 20px 0px 26px 26px;
+    cursor: pointer;
+}
+
+.list-item {
+    padding: 15px 29px;
+    background-color: white;
+    width: 735px;
+    margin: 23px 0px -8px 277px;
+    list-style-type: none;
+    color: hsl(213deg 8.93% 56.08%);
+    font-weight: bold;
+    font-size: 14px;
+}
+
+.icon-wha {
+    font-size: 24px;
+    font-weight: 100;
+    color: #a7a0a0;
+}
+
+.two- {
+    padding: 0px 0px 0px 455px;
+}
+
+.three- {
+    padding: 0px 0px 0px 388px;
+}
+
+.four- {
+    padding: 0px 0px 0px 512px;
+}
+
+.five- {
+    padding: 0px 0px 0px 483px;
+}
+
+.six- {
+    padding: 0px 0px 0px 489px;
+}
+
+/*-------------------section second-last starts here--------------------*/
+
+.section-contact {
+    background-color: hsl(216deg 10.87% 18.04%);
+    height: 30rem;
+}
+
+.div-contact {
+    margin-left: 12rem;
+    padding-top: 7rem;
+}
+
+.heading-contact {
+    color: white;
+    font-weight: 100;
+    font-size: 30px;
+}
+
+.para-contact {
+    color: hsl(116.25deg 3.57% 80.4%);
+    line-height: 24px;
+    padding-top: 21px;
+}
+
+.para-piik {
+    font-size: 15px;
+    color: hsl(116.25deg 3.57% 80.4%);
+    padding-bottom: 15px;
+}
+
+.ican {
+    font-size: 19px;
+    color: white;
+    padding: 5px;
+    cursor: pointer;
+}
+
+.house-one {
+    width: 25%;
+    height: 21rem;
+    position: relative;
+    left: 33rem;
+    bottom: 18rem;
+}
+
+.form {
+    position: relative;
+    bottom: 37rem;
+    left: 889px;
+    width: 0rem;
+}
+
+.label- {
+    padding: 12px 56px 10px 10px;
+    font-size: 13px;
+    margin-bottom: 11px;
+}
+
+.label-one {
+    padding: 10px 56px 10px 9px;
+}
+
+.button-form {
+    border: 2px solid #bfb3b3;
+    color: #d5d0d0;
+    background-color: #292d33;
+    padding: 9px 23px;
+    margin-top: 13px;
+    cursor: pointer;
+
+}
+
+.last {
+    font-size: 12px;
+    padding-top: 36px;
+    color: hsl(139.2deg 45.45% 89.22%);
+    letter-spacing: 0.5px;
+}
+
+/*-----------------section final starts here-----------------*/
+
+.section-last {
+    background-color: hsl(0deg 0% 20%);
+    text-align: center;
+}
+
+.para-last {
+    font-size: 11px;
+    padding-bottom: 36px;
+    padding-top: 37px;
+    color: #d9d9d9;
+}
+
+/*-----------------homework ends here-------------------*/
